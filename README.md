@@ -27,5 +27,8 @@ json
 输出人脸出现的比例，以及是否满足设定阈值。
 4. 性能优化
 支持缩放视频分辨率（例如：缩放到原分辨率的一半），以提高处理速度。
+
+
 运行脚本：
+
 python clip_frame.py --input_video <path_to_video> --output_json <path_to_output_json>
